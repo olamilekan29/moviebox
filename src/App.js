@@ -5,15 +5,7 @@ import SearchIcon from './search.svg';
 
 const API_URL = 'http://www.omdbapi.com?apikey=17fb7efc';
 
-const movie = {
-  
-    "Title": "Superman, Spiderman or Batman",
-    "Year": "2011",
-    "imdbID": "tt2084949",
-    "Type": "movie",
-    "Poster": "N/A"
 
-}
 
 
 
